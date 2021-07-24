@@ -76,7 +76,7 @@
 
 <style>
 	main {
-		margin: 2rem;
+		width: 90%;
 		max-width: 720px;
 		margin-left: auto;
 		margin-right: auto;
