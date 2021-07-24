@@ -68,11 +68,6 @@
 
 	<a class="button" href={Searchurl} target="_blank">Search</a>
 </main>
-<div class="signature">
-	<p>
-		Built with ❤️ by <a href="https://twitter.com/ferminrp">ferminrp</a>
-	</p>
-</div>
 
 <style>
 	main {
@@ -97,16 +92,6 @@
 		border-radius: 5px;
 		padding: 0.5rem 2rem;
 		margin-top: 2rem;
-	}
-
-	.signature {
-		width: 100%;
-		position: fixed;
-		bottom: 2rem;
-	}
-
-	.signature p {
-		text-align: center;
 	}
 
 </style>
